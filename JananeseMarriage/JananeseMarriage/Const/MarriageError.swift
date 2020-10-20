@@ -8,7 +8,7 @@
 import Foundation
 
 /// 結婚にまつわるエラー
-enum MarriageError: Error {
+internal enum MarriageError: Error {
     /// 未婚
     case Unmarried
     /// 旧姓がない
