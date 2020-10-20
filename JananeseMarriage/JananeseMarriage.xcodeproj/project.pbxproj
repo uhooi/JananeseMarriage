@@ -17,6 +17,7 @@
 		3EBADCA6253F334F00BFE157 /* JananeseMarriageUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBADCA5253F334F00BFE157 /* JananeseMarriageUITests.swift */; };
 		3EBADCBC253F368C00BFE157 /* MarriageError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBADCBB253F368C00BFE157 /* MarriageError.swift */; };
 		3EBADCC1253F36D900BFE157 /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBADCC0253F36D900BFE157 /* Enum.swift */; };
+		3EBADCCA253F39DD00BFE157 /* Japanese.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBADCC9253F39DD00BFE157 /* Japanese.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		3EBADCA7253F334F00BFE157 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3EBADCBB253F368C00BFE157 /* MarriageError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarriageError.swift; sourceTree = "<group>"; };
 		3EBADCC0253F36D900BFE157 /* Enum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enum.swift; sourceTree = "<group>"; };
+		3EBADCC9253F39DD00BFE157 /* Japanese.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Japanese.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 		3EBADC82253F334D00BFE157 /* JananeseMarriage */ = {
 			isa = PBXGroup;
 			children = (
+				3EBADCC9253F39DD00BFE157 /* Japanese.swift */,
 				3EBADCC5253F378B00BFE157 /* Const */,
 				3EBADC83253F334D00BFE157 /* AppDelegate.swift */,
 				3EBADC85253F334D00BFE157 /* SceneDelegate.swift */,
@@ -280,6 +283,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EBADCCA253F39DD00BFE157 /* Japanese.swift in Sources */,
 				3EBADC84253F334D00BFE157 /* AppDelegate.swift in Sources */,
 				3EBADCC1253F36D900BFE157 /* Enum.swift in Sources */,
 				3EBADC86253F334D00BFE157 /* SceneDelegate.swift in Sources */,
